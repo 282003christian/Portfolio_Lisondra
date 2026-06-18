@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Christian Lisondra</title>
+
+    <link rel="stylesheet" href="style.css?v=2">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <div class="logo">CHRISTIAN | Web Developer</div>
+
+        <nav>
+            <a href="index.php">Home</a>
+            <a href="aboutme.php">About Me</a>
+            <a href="portfolio.php">Portfolio</a>
+            <a href="skills.php">Skills</a>
+            <a href="contact.php">Contact</a>
+        </nav>
+
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/christian-lisondra-794186356/"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://www.facebook.com/christian.lisondra.2025"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://github.com/282003christian"><i class="fab fa-github"></i></a>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-text">
+            <h3>Contact Me</h3>
+            <h1>Let's Build Something Great</h1>
+
+            <div class="contact-details">
+                <p><strong>Phone:</strong> +63 949 804 8178</p>
+                <p><strong>Email:</strong> christianlisondra28@gmail.com</p>
+                <p><strong>Location:</strong> Pakna-an Mandaue City, Cebu</p>
+                <p><strong>Availability:</strong> Open to freelance and full-time opportunities</p>
+                <p><strong>Other:</strong> Feel free to contact me for project inquiries, collaborations, or interviews.</p>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
