@@ -153,7 +153,6 @@ nav a{
     max-width:720px;
 }
 
-/* Transparent container for hero text + button */
 .hero-box{
     background: rgba(255,255,255,0.65);
     padding:22px 28px;
@@ -176,7 +175,6 @@ nav a{
     line-height:1.3;
 }
 
-/* Portfolio project titles: make them match other section sizes */
 .portfolio-grid .portfolio-card h3{
     font-size:22px;
     color:#333;
@@ -192,8 +190,8 @@ nav a{
     border-radius:5px;
     transition:0.3s;
     display:inline-block;
-    width:fit-content;      /* Add this */
-    align-self:flex-start;  /* Add this */
+    width:fit-content;
+    align-self:flex-start;
 }
 
 .btn:hover{
@@ -201,11 +199,11 @@ nav a{
 }
 
 .hero-image{
-    flex:1;
     text-align:center;
+    margin:0 auto;
 }
 
 .hero-image img{
-    max-width:450px;
+    max-width:100%;
     width:100%;
 }
